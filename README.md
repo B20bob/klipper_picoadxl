@@ -1,1 +1,1 @@
-THis is instructions and cfg file for using a reaspberry pi pico and adxl345 for klipper input shaping.
+This is instructions and cfg file for using a reaspberry pi pico and adxl345 for klipper input shaping.
